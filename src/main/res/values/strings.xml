@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">biblioteca</string>
+    <string name="txt1">Iniciar sesion</string>
+    <string name="txt2">usuario</string>
+    <string name="txt3">contraseña</string>
+    <string name="txt4">inicio</string>
+    <string name="txt5">registrarse</string>
+</resources>
